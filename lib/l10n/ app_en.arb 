@@ -1,0 +1,27 @@
+{
+  "appName":"My to Do",
+
+  "task title": "asm eltask",
+
+  "task description": "asm description",
+
+  "add new task" :"add task",
+
+  "selected time" :"selecet time",
+
+  "dark": "Dark",
+
+  "endlish:"English",
+
+  "arabic: "Arabic",
+
+  "light" : "Light",
+
+  "add task": "add task",
+   "edit" : "edit",
+
+    "delete":"delete"
+
+}
+
+
